@@ -1,0 +1,13 @@
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\obj\Debug\netcoreapp3.1\TP03-Pesquisa.csprojAssemblyReference.cache
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\obj\Debug\netcoreapp3.1\TP03-Pesquisa.AssemblyInfoInputs.cache
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\obj\Debug\netcoreapp3.1\TP03-Pesquisa.AssemblyInfo.cs
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\obj\Debug\netcoreapp3.1\TP03-Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\bin\Debug\netcoreapp3.1\TP03-Pesquisa.exe
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\bin\Debug\netcoreapp3.1\TP03-Pesquisa.deps.json
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\bin\Debug\netcoreapp3.1\TP03-Pesquisa.runtimeconfig.json
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\bin\Debug\netcoreapp3.1\TP03-Pesquisa.runtimeconfig.dev.json
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\bin\Debug\netcoreapp3.1\TP03-Pesquisa.dll
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\bin\Debug\netcoreapp3.1\TP03-Pesquisa.pdb
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\obj\Debug\netcoreapp3.1\TP03-Pesquisa.dll
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\obj\Debug\netcoreapp3.1\TP03-Pesquisa.pdb
+C:\Users\Usuário.LAPTOP-TUDELF8L\Desktop\Trabalho AED\TP03-Pesquisa\TP03-Pesquisa\obj\Debug\netcoreapp3.1\TP03-Pesquisa.genruntimeconfig.cache
